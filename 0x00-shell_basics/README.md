@@ -1,1 +1,1 @@
-the file betty from tmp
+the file betty
