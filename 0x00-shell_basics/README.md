@@ -1,1 +1,1 @@
-We are symbols
+a symbolic link
